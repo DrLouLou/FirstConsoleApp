@@ -1,0 +1,12 @@
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.deps.json
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.runtimeconfig.json
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.runtimeconfig.dev.json
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.dll
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.pdb
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.csprojAssemblyReference.cache
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.AssemblyInfoInputs.cache
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.AssemblyInfo.cs
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.dll
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.pdb
+/Users/louischoo-choy/Code/DrLouLou/FirstConsoleApp/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.genruntimeconfig.cache
